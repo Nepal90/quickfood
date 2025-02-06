@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063325328848",
+    "project_id": "food-52e39",
+    "storage_bucket": "food-52e39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063325328848:android:fd759e631746261dc645d5",
+        "android_client_info": {
+          "package_name": "com.examle.quickfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRkW_aYje_EgokS-Ug5L7KUVaJFLmErEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
